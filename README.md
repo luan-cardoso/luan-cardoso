@@ -1,16 +1,26 @@
-## Hi there 👋
+<code>console.log("Bem-vindo ao meu Github!")</code>
+<hr>
 
-<!--
-**luan-cardoso/luan-cardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá, meu nome é Luan Cardoso
+> Estudante de Desenvolvimento Web, fascinado por <br/>
+> tecnologia, graduando em Engenharia de Software.<br/>
+> Destaco uma sólida base em Desenvolvimento Web <br/>
+> Front-End, trabalhando com Javascript e ReactJS.
+> 
+<br/>
 
-Here are some ideas to get you started:
+- [P o r t f o l i o](https://luancardoso.vercel.app/) <br/>
+- [L i n k e d i n](https://www.linkedin.com/in/luanc-santos/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+##### 🧠 Conhecimento em:
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,materialui,tailwind&theme=dark)](https://skillicons.dev)
+   
+<hr>
+
+##### 📚 Estudando:
+[![Learning](https://skillicons.dev/icons?i=typescript,nodejs,nextjs,&theme=dark)](https://skillicons.dev)
+
+
