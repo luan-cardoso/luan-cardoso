@@ -21,6 +21,6 @@
 <hr>
 
 ##### 📚 Estudando:
-[![Learning](https://skillicons.dev/icons?i=typescript,nodejs,nextjs,&theme=dark)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=nextjs,nodejs,&theme=dark)](https://skillicons.dev)
 
 
