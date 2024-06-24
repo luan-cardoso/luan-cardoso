@@ -10,7 +10,7 @@
 <br/>
 
 - [P o r t f o l i o](https://luancardoso.vercel.app/) <br/>
-- [L i n k e d i n](https://www.linkedin.com/in/luanc-santos/)
+- [L i n k e d I n](https://www.linkedin.com/in/luanc-santos/)
 
 <br/>
 
