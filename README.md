@@ -16,7 +16,7 @@
 
 ##### 🧠 Conhecimento em:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,materialui,tailwind&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,materialui,tailwind&theme=dark)](https://skillicons.dev)
    
 <hr>
 
