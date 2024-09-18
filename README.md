@@ -5,7 +5,7 @@
 > Estudante de Desenvolvimento Web, fascinado por <br/>
 > tecnologia, graduando em Engenharia de Software.<br/>
 > Destaco uma sólida base em Desenvolvimento Web <br/>
-> Front-End, trabalhando com Javascript e ReactJS.
+> Front-End, trabalhando com ReactJS e NextJS.
 > 
 <br/>
 
