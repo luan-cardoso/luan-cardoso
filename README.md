@@ -16,11 +16,11 @@
 
 ##### 🧠 Conhecimento em:
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,materialui,tailwind&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,next,materialui,tailwind&theme=dark)](https://skillicons.dev)
    
 <hr>
 
 ##### 📚 Estudando:
-[![Learning](https://skillicons.dev/icons?i=next,&theme=dark)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=nodejs,&theme=dark)](https://skillicons.dev)
 
 
