@@ -1,6 +1,8 @@
 <code>console.log("Bem-vindo ao meu Github!")</code>
 <hr>
 
+## Work & Education <img src="assets/Rocket.png" width="30">
+
 ## Olá, meu nome é Luan Cardoso
 > Estudante de Desenvolvimento Web, fascinado por <br/>
 > tecnologia, graduando em Engenharia de Software.<br/>
