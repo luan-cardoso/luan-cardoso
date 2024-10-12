@@ -1,28 +1,26 @@
 <code>console.log("Bem-vindo ao meu Github!")</code>
 <hr>
 
-## Work & Education <img src="assets/Rocket.png" width="30">
+## <img src="assets/Robot.png" width="30"> Olá, meu nome é Luan Cardoso
 
-## Olá, meu nome é Luan Cardoso
 > Estudante de Desenvolvimento Web, fascinado por <br/>
 > tecnologia, graduando em Engenharia de Software.<br/>
-> Destaco uma sólida base em Desenvolvimento Web <br/>
-> Front-End, trabalhando com ReactJS e NextJS.
+> Hoje destaco uma sólida base em Desenvolvimento <br/>
+> Web Front-End, trabalhando com ReactJS e NextJS.
 > 
 <br/>
 
-- [P o r t f o l i o](https://luancardoso.vercel.app/) <br/>
-- [L i n k e d I n](https://www.linkedin.com/in/luanc-santos/)
+[P o r t f o l i o](https://luancardoso.vercel.app/)ㅤ[L i n k e d I n](https://www.linkedin.com/in/luanc-santos/)
 
 <br/>
 
-##### 🧠 Conhecimento em:
+#### <img src="assets/Brain.png" width="30"> Linguagens:
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,next,materialui,tailwind&theme=dark)](https://skillicons.dev)
-   
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript)](https://skillicons.dev)
+
 <hr>
 
-##### 📚 Estudando:
-[![Learning](https://skillicons.dev/icons?i=nodejs,&theme=dark)](https://skillicons.dev)
+#### <img src="assets/Brain.png" width="30"> Estudando...
+[![Learning](https://skillicons.dev/icons?i=nodejs,expressjs&theme=dark)](https://skillicons.dev)
 
 
