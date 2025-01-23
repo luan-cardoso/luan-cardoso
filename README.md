@@ -20,7 +20,7 @@
 [![Learning](https://skillicons.dev/icons?i=react,nextjs,materialui,tailwind&theme=dark)](https://skillicons.dev)
 
 #### <img src="assets/Writing Hand Light Skin Tone.png" width="30"> Estudando...
-[![Learning](https://skillicons.dev/icons?i=nodejs,expressjs&theme=dark)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=cs,entity,dotnet&theme=dark)](https://skillicons.dev)
 
 <hr/>
 
