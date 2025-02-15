@@ -6,7 +6,7 @@
 > Estudante de Desenvolvimento Web, fascinado por <br/>
 > tecnologia, graduando em Engenharia de Software.<br/>
 > Hoje destaco uma sólida base em Desenvolvimento <br/>
-> Web Front-End, trabalhando com ReactJS e NextJS.
+> Web, trabalhando com ReactJS e NodeJS.
 > 
 <br/>
 
@@ -20,7 +20,7 @@
 [![Learning](https://skillicons.dev/icons?i=react,nextjs,materialui,tailwind&theme=dark)](https://skillicons.dev)
 
 #### <img src="assets/Writing Hand Light Skin Tone.png" width="30"> Estudando...
-[![Learning](https://skillicons.dev/icons?i=cs,dotnet&theme=dark)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=nodejs,expressjs,java,spring&theme=dark)](https://skillicons.dev)
 
 <hr/>
 
