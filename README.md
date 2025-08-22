@@ -7,20 +7,19 @@
 > tecnologia, graduando em Engenharia de Software.<br/>
 > Hoje destaco uma sólida base em Desenvolvimento <br/>
 > Web, trabalhando com NextJS e NodeJS.
-> 
-<br/>
 
-[P o r t f o l i o](https://luancardoso.vercel.app/)ㅤ[L i n k e d I n](https://www.linkedin.com/in/luanc-santos/)
+
+[L i n k e d I n](https://www.linkedin.com/in/luanc-santos/)
 
 <hr/>
 
 #### <img src="assets/Brain.png" width="30"> Atualmente, consigo programar em:
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript)](https://skillicons.dev)
 #### <img src="assets/Robot.png" width="30"> Tecnologias que domino:
-[![Learning](https://skillicons.dev/icons?i=react,nextjs,materialui,tailwind&theme=dark)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=nodejs, mongodb, react,nextjs,materialui,tailwind&theme=dark)](https://skillicons.dev)
 
 #### <img src="assets/Writing Hand Light Skin Tone.png" width="30"> Estudando...
-[![Learning](https://skillicons.dev/icons?i=nodejs,expressjs,java,spring&theme=dark)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=java,spring&theme=dark)](https://skillicons.dev)
 
 <hr/>
 
