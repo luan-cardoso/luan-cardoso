@@ -17,7 +17,8 @@
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript)](https://skillicons.dev)
 #### <img src="assets/Robot.png" width="30"> Tecnologias que domino:
 
-[![Learning](https://skillicons.dev/icons?i=nodejs, react,nextjs,materialui,tailwind&theme=dark)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=java,spring&theme=dark)](https://skillicons.dev)
+
 
 #### <img src="assets/Writing Hand Light Skin Tone.png" width="30"> Estudando...
 [![Learning](https://skillicons.dev/icons?i=java,spring&theme=dark)](https://skillicons.dev)
