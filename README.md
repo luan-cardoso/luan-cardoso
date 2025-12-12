@@ -9,7 +9,8 @@
 > Web, trabalhando com NextJS e NodeJS.
 
 
-[L i n k e d I n](https://www.linkedin.com/in/luanc-santos/)
+[L i n k e d I n](https://www.linkedin.com/in/luanc-santos/) <br/>
+[P o r t f o l i o](https://www.luanc.dev)
 
 <hr/>
 
@@ -21,7 +22,7 @@
 
 
 #### <img src="assets/Writing Hand Light Skin Tone.png" width="30"> Estudando...
-[![Learning](https://skillicons.dev/icons?i=dart,flutter&theme=dark)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=aws,docker&theme=dark)](https://skillicons.dev)
 
 <hr/>
 
