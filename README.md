@@ -22,5 +22,5 @@
 
 
 #### <img src="assets/Writing Hand Light Skin Tone.png" width="30"> Estudando...
-[![Learning](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=dotnet,cs&theme=dark)](https://skillicons.dev)
 
