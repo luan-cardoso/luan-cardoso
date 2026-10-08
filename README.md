@@ -10,12 +10,9 @@
 <hr/>
 
 #### <img src="assets/Brain.png" width="30"> Atualmente, consigo programar em:
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript)](https://skillicons.dev)
 #### <img src="assets/Robot.png" width="30"> Tecnologias que domino:
 
-[![Skills](https://skillicons.dev/icons?i=nodejs,mongo,postgresql,dotnet,react,next,tailwind&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=nodejs,nestjs,docker,mongo,postgresql,react,next=dark)](https://skillicons.dev)
 
-
-#### <img src="assets/Writing Hand Light Skin Tone.png" width="30"> Estudando...
-[![Learning](https://skillicons.dev/icons?i=go&theme=dark)](https://skillicons.dev)
 
